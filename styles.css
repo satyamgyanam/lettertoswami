@@ -1,0 +1,41 @@
+html {
+    font-family: cursive;
+}
+
+div#header {
+    background-color: darkseagreen;
+    height: 60px;
+    clear: both;
+    width: 100%;
+}
+h2#Pagetitle {
+    top: 15px;
+    position: relative;
+}
+
+span.label {
+    font-size: large;
+    color: blueviolet;
+}
+
+.jumbotron {
+    background: darkseagreen;
+}
+
+.well {
+    font-family: cursive;    
+}
+
+textarea#Letter {
+    font-size: large;
+    font-family: cursive;
+    color: blueviolet;
+    font-style: italic;
+}
+
+span#prayer {
+    font-size: x-large;
+    color: coral;
+    font-family: math;
+}
+
