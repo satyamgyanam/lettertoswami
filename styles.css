@@ -29,8 +29,7 @@ span.label {
 textarea#Letter {
     font-size: large;
     font-family: cursive;
-    color: blueviolet;
-    font-style: italic;
+    color: blueviolet;    
 }
 
 span#prayer {
