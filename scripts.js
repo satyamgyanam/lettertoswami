@@ -6,6 +6,7 @@ $(document).ready(function(){
 
     $("#send").click(function() {
         $("#after").show();
+        $("#Letter")[0].value = "";        
         $("#before").hide();
         
         setTimeout(function(){ 
